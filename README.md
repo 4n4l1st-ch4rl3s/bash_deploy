@@ -1,6 +1,6 @@
 # BASH DEPLOY
 ### Author: Jonathan Scott  @jonathandata1
-[bash-deploy.gif](https://postimg.cc/F7xW4vLQ)
+[![bash-deploy.gif](https://i.postimg.cc/5NhZ8N9j/bash-deploy.gif)](https://postimg.cc/F7xW4vLQ)
 ### CURRENT VERSION 1.0
 
 ###
